@@ -1,5 +1,5 @@
 # Author: Ruide Zhu
-# Data: 02/01/2023
+# Date: 02/01/2023
 
 import csv
 import sys
